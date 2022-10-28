@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nayasha2003
+- 👋 Hi, I’m Nayasha
 - 👀 I’m interested in learning about new technology and developing my problem sloving skills
 - 🌱 I’m currently learning Data Structures and Algorithms(DSA) and polishing problem sloving skills on various platefroms like Hackerrank,Code Forces etc.
 - 💞️ I’m looking for an opportunity through which i can upgrade my technical skill
