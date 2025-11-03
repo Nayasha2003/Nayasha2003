@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nayasha  
 
-🎓 A **Computer Science and Engineering Graduate (2021–2025)** from **Institute of Technology, Guru Ghasidas Vishwavidyalaya**, Bilaspur (CGPA: 8.31/10).  
+🎓 A **Computer Science and Engineering Graduate (2021–2025)** from **Institute of Technology, Guru Ghasidas Vishwavidyalaya**, Bilaspur, Chhattisgarh.  
 
 💡 Passionate about building **intelligent and scalable software solutions**, combining strong foundations in **C++, Data Structures & Algorithms, and Software Engineering** with hands-on experience in **Full Stack Development** and **Artificial Intelligence**.  
 
